@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello and thank you for visiting my GitHub profile.
+
+I work as a software engineer specializing in back-end development, DevOps, and machine learning.
+
+You may find here my side projects, materials for the courses I create, and notes on various topics that interest me.
 
 ![djeada's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=djeada&show_icons=true&theme=outrun)
