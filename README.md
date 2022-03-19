@@ -19,7 +19,14 @@ Hello and thank you for visiting my GitHub profile.
 
 I work as a software engineer specializing in back-end development, DevOps, and machine learning.
 
-You may find here my side projects, materials for the courses I create, and notes on various topics that interest me.
+My side projects, resources for the courses I develop, and thoughts on numerous things that interest me may all be found here.
 
 ![djeada's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=djeada&show_icons=true&theme=outrun)
+
+<p align="center">
+  <a href="http://adamdjellouli.com"><img width="7%" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
+  <a href="https://www.youtube.com/c/AdamDjellouli"><img width="7%" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="linkedin.com/in/adam-djellouli-1bb54619a"><img width="7%" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.github.com/djeada"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
+</p>
