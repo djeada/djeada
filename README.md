@@ -29,11 +29,10 @@ My side projects, resources for the courses I develop, and thoughts on numerous 
   </div>
   <div style="width:50%; float: left; display: inline-block;">
   
-      <p align="center">
   <a href="http://adamdjellouli.com"><img width="7%" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
   <a href="https://www.youtube.com/c/AdamDjellouli"><img width="7%" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="linkedin.com/in/adam-djellouli-1bb54619a"><img width="7%" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.github.com/djeada"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
-</p>
+
   </div>
 </div>
