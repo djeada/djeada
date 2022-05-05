@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello and thank you for visiting my GitHub profile.
 
-I work as a software engineer specializing in back-end development, DevOps, and machine learning.
+I work as a software engineer specializing in backend development, DevOps, and machine learning.
 
 My side projects, resources for the courses I develop, and thoughts on numerous things that interest me may all be found here.
 
