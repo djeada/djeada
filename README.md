@@ -21,12 +21,6 @@ I work as a software engineer specializing in backend development, DevOps, and m
 
 My side projects, resources for the courses I develop, and thoughts on numerous things that interest me may all be found here.
 
-<div style="display:block; width:100%;">
-  <div style="width:50%; float: left; display: inline-block;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=djeada&show_icons=true&theme=radical" alt="Italian Trulli">
-
-  </div>
   <div style="width:50%; float: left; display: inline-block;">
   
   <a href="https://adamdjellouli.com"><img width="7%" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
