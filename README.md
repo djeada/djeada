@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **djeada/djeada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello and thank you for visiting my GitHub profile.
+## Hello and Welcome!
 
-I work as a software engineer specializing in backend development, DevOps, and machine learning.
+Hi there, and thank you for stopping by my GitHub profile. My name is Adam Djellouli and I am a software engineer with a focus on backend development, DevOps, and machine learning.
 
-My side projects, resources for the courses I develop, and thoughts on numerous things that interest me may all be found here.
+On this profile, you will find a range of projects and resources that I have created or contributed to, including side projects, course materials, and thoughts on various topics that interest me. Whether you are looking for inspiration or just want to learn more about my work, I hope you find something here that is of value to you.
+
+Thank you for visiting, and I hope you have a great day!
 
   <div style="width:50%; float: left; display: inline-block;">
   
