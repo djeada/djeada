@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hello! Welcome to my GitHub profile. I'm Adam Djellouli, a software engineer specializing in backend development, DevOps, and machine learning.
 
-Here, you'll find a variety of projects and resources I've created or contributed to—including side projects, course materials, and my thoughts on topics that interest me. Whether you're seeking inspiration or looking to learn more about my work, I hope you find something valuable here.
+Here, you'll find a variety of projects and resources I've created or contributed to like side projects, course materials, and my thoughts on topics that interest me. I hope you find something valuable here.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or opportunities for collaboration. Thanks for visiting, and have a great day!
 
